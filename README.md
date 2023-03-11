@@ -4,6 +4,15 @@ Get started with this starter project based on a Tailwind CSS, Vue 3 and Flowbit
 
 This repository is based on the [Tailwind CSS + Vue](https://flowbite.com/docs/getting-started/vue/) guide on the Flowbite website.
 
+
+## Intalled Library
+
+- Vue (Vite)
+  - Router
+  - Store (Pinia)
+- Tailwind CSS
+- Flowbite (vanilla)
+
 ## Getting started
 
 Make sure that you have Node.js installed on your project. Run the following command to install all dependencies:
