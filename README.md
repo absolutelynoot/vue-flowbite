@@ -7,7 +7,7 @@ This repository is based on the [Tailwind CSS + Vue](https://flowbite.com/docs/g
 
 ## Intalled Library
 
-- Vue (Vite)
+- Vue 3 (Vite)
   - Router
   - Store (Pinia)
 - Tailwind CSS
